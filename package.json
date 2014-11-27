@@ -1,0 +1,19 @@
+{
+  "name": "gulp-styleguide",
+  "version": "1.0.0",
+  "description": "A gulp powered style guide",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "front-matter": "^0.2.0",
+    "gulp": "^3.8.10",
+    "gulp-compile-handlebars": "^0.4.3",
+    "gulp-data": "^1.0.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-ssg": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
